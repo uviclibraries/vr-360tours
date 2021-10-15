@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
+## alsdf;alskjdf;laksjdf;lakjsdf Resources
 
 
 ## Acknowledgements
