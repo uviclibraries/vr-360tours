@@ -13,4 +13,4 @@ parent: Workshop Activities
 - [Enabling Desktop Sharing in Zoom & Privately Requesting Assistance During the Workshop](https://www.youtube.com/watch?v=TWb-bms3R2Y){:target="_blank"} (2 min)
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TWb-bms3R2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[NEXT STEP: Excel Basics](basics-data-cleaning.html){: .btn .btn-blue }
+[NEXT STEP: Marzipano 360 Tour Activity](activity-marzipano.html){: .btn .btn-blue }
