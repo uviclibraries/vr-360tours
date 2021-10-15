@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Activity 1
 
-[NEXT STEP: Activity 2](activity-2.html){: .btn .btn-blue }
+[NEXT ACTIVITY: Google Earth Narrative Map](activity-google-earth.html){: .btn .btn-blue }
