@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities for HAND2
+title: Marzipano 360 Tour
 nav_order: 2
 parent: Workshop Activities
 ---
