@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Activity 1
 
-[NEXT STEP: Earn A Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
