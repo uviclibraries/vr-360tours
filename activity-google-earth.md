@@ -7,4 +7,4 @@ parent: Workshop Activities
 
 # Activity 1
 
-[NEXT ACTIVITY: Larpentor 360 Tour](activity-larpentor.html){: .btn .btn-blue }
+[NEXT ACTIVITY: Lapentor 360 Tour](activity-lapentor.html){: .btn .btn-blue }
