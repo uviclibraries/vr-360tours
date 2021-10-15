@@ -15,7 +15,8 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 
 ### Earn an Informal Credential or Badge for Taguette
 
-If you’d like to earn a DSC badge for this workshop, complete the Google projects **AND** the Marzipano project, then email links to both projects to rmccue@uvic.ca (_Note: Because of the large file size you will have to share your Marzipano project file using a tool like Google Docs or Dropbox)
+- If you’d like to earn a DSC badge for this workshop, complete the Google projects **AND** the Marzipano project, then email links to both projects to rmccue@uvic.ca
+- (_Note: Because of the large file size you will have to share your Marzipano project file using a tool like Google Docs or Dropbox_)
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
