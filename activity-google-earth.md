@@ -37,5 +37,10 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
     -   Once you have clicked on this location, Google Earth will zoom in and switch to a real-image 3D view of it
     -   To change the view, repeat the steps for the 2D example (Note: no need to use SHIFT to rotate and tilt; the mouse does everything)
     -   Alternatively, using the search bar in the left column, you can search a specific place that is in your area and use that (in the example at the right, Bruce Hall is a center in Channel-Port Aux Basques, NL that Terry Fox made a speech at during his Marathon of Hope) and click **Add to project**, giving it the name of the overall location (e.g. Channel-Port Aux Basques)
+    -   Once you're happy with your view, click on **Capture this view** (which will then prompt you to save the location)
+6.  Route
+    -   Selecting the **Draw line or shape** will allow you to create a route. To do this, click on your desired starting location and move your mouse to your next location. When you reach this next location, click again and continue to make as many points as you'd like! To complete the path, press **ENTER** when you're at your final point. You have now made a route!
+
+# **INCOMPLETE?**
 
 [NEXT ACTIVITY: Lapentor 360 Tour](activity-lapentor.html){: .btn .btn-blue }
