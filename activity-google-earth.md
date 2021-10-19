@@ -12,34 +12,76 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 -   The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}
 
 **Creating Your Google Earth Project**
-1.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon on the left:
-2.  Click on **Projects** and then the light blue **New Project** button at the bottom. Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one, go to [https://accounts.google.com/](https://accounts.google.com/){:target="_blank"}
+1.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon <img src="images\logo.png" alt="image description" style="width:720px;"> on the left:
+2.  Click on **Projects** and then the light blue **New Project** button at the bottom. <img src="images\logo.png" alt="image description" style="width:720px;"> <img src="images\logo.png" alt="image description" style="width:720px;"> <img src="images\logo.png" alt="image description" style="width:720px;"> Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one, go to [https://accounts.google.com/](https://accounts.google.com/){:target="_blank"}
+
+    <img src="images\logo.png" alt="image description" style="width:720px;">
 
 **Adding to Your Google Earth Project**
 3.  Once you have done this, you can add your first location, route, or slide by clicking on the light blue **New Feature** drop-down menu
+
+    <img src="images\logo.png" alt="image description" style="width:720px;">
+    <img src="images\logo.png" alt="image description" style="width:720px;">
+    <img src="images\logo.png" alt="image description" style="width:720px;">
+    <img src="images\logo.png" alt="image description" style="width:720px;">
+
 4.  Locations
     -   To add a location, click on **Search to add place** and type in the location's name. A red marker will appear at your chosen location
     -   You can choose to add this to your project by clicking on **Add to project** (located beneath the area description at the right)
+    
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+    
     -   Alternatively, you can click **Add placemark**, click on a place on the map, and then click **Add to project**
     -   If you would like to add a title, description, photo, or link click on the pencil icon **Edit feature**
+    
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+    
     -   To add a photo or video, click on the top box that has a camera icon
     -   For photos, there are several options for uploading: computer file, google images, google drive, or using a URL. You can add as many photos and/or videos as you'd like!
+
+    <img src="images\logo.png" alt="image description" style="width:720px;">
+    <img src="images\logo.png" alt="image description" style="width:720px;">
+    <img src="images\logo.png" alt="image description" style="width:720px;">
+
 5.  Location View
     -   To change the view that appears when a location on your map is clicked on, hover your mouse over your chosen location and click on the pencil icon **Edit feature**. Google Earth will move to this location and show you an aerial view
+    
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+    
     -   To change from 2D to 3D, go to the bottom right corner and click on the button
     -   To move the physical location, click, hold, and drag your mouse to move the map around
     -   For adjusting the tilt (angle your view is at) and heading (place your view is facing), hold SHIFT while clicking, holding, and dragging the mouse vertically or horizontally, respectively
     -   You can also adjust the altitude by using the mouse wheel
-    -   Use the ***image*** at the bottom right corner to zoom in and out
+    -   Use the <img src="images\logo.png" alt="image description" style="width:720px;"> at the bottom right corner to zoom in and out
     -   Once you've got your desired view, click on **Capture this view**. Now when you click on your marked location in your map, you will be brought to this view!
-    -   To get a Street View, go to the bottom right corner and click on ***image***
+    
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+    
+    -   To get a Street View, go to the bottom right corner and click on <img src="images\logo.png" alt="image description" style="width:720px;">
     -   Next, click on the location on your map in which you would like to set your view from. Note: you will be limited to the areas that are highlighted in light blue
+    
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+    
     -   Once you have clicked on this location, Google Earth will zoom in and switch to a real-image 3D view of it
+    
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+    
     -   To change the view, repeat the steps for the 2D example (Note: no need to use SHIFT to rotate and tilt; the mouse does everything)
     -   Alternatively, using the search bar in the left column, you can search a specific place that is in your area and use that (in the example at the right, Bruce Hall is a center in Channel-Port Aux Basques, NL that Terry Fox made a speech at during his Marathon of Hope) and click **Add to project**, giving it the name of the overall location (e.g. Channel-Port Aux Basques)
+    
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+    
     -   Once you're happy with your view, click on **Capture this view** (which will then prompt you to save the location)
+
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+
 6.  Route
     -   Selecting the **Draw line or shape** will allow you to create a route. To do this, click on your desired starting location and move your mouse to your next location. When you reach this next location, click again and continue to make as many points as you'd like! To complete the path, press **ENTER** when you're at your final point. You have now made a route!
+        
+        <img src="images\logo.png" alt="image description" style="width:720px;">
+        <img src="images\logo.png" alt="image description" style="width:720px;">
 
 # **INCOMPLETE?**
 
