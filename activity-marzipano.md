@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-<img src="images\marzipano\logo.png" alt="marzipano logo" style="float:right;width:720px;">
+<img src="images\marzipano\logo.png" alt="marzipano logo" style="float:right;width:180px;">
 
 # Marzipano 360 Tour Activity
 
