@@ -48,6 +48,10 @@ Note: The Free Virtual Tour software which support self-hosting on your own doma
         Note: you can always preview your tour by clicking the **preview** button on the top middle of your screen
         
     -   **Share/Get link:** (Note: it costs 10 dollars to export) but you can share the link via online platforms (facebook, twitter, reddit), you can embed the code and/or use the QR code, you can also **get the link** by copying it on the top right
-    -   To upload your Lapentor tour to your personal UVic web space you'll need to set up your personal webspace. You can do this by following the directions to sign up for your personal webspace and following the instructions below that to upload your files:
+    -   To upload your Lapentor tour to your personal UVic web space you'll need to set up your personal webspace. You can do this by following the directions to sign up for your personal webspace and following the instructions below that to upload your files: [http://bit.ly/2QlRZo0](http://bit.ly/2QlRZo0){:target="_blank"}
+        -   Staff: [https://www.uvic.ca/systems/support/web/webhosting-fac-staff/](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/){:target="_blank"}
+        -   Students: [https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php](https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php){:target="_blank"}
+    -   Optional: Video series to showcase some of the steps and settings:
+        <stuff>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
