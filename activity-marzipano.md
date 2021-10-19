@@ -5,6 +5,8 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
+<img src="images\logo.png" alt="image description" style="width:720px;">
+
 # Marzipano 360 Tour Activity
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Here is a sample [Marzipano tour of the DSC LINK BROKEN](https://www.youtube.com/watch?v=Ag1o3koTLWM){:target="_blank"}. Have fun!
