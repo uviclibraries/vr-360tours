@@ -12,25 +12,25 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 -   The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}
 
 **Creating Your Google Earth Project**
-1.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon <img src="images\google-earth\menu_bar.png" alt="menu bar" style="width:30px;"> on the left
+1.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon <img src="images\google-earth\menu_bar.png" alt="menu bar" style="width:25px;"> on the left
 
-    <img src="images\google-earth\logo1.png" alt="icons" style="float:right;width:240px;">
+    <img src="images\google-earth\logo1.png" alt="icons" style="float:right;width:120px;">
 
 2.  Click on **Projects** and then the light blue **New Project** button at the bottom. Note: There will be a prompt for you to sign into a Google Account once you click **New Project**. If you need to create one, go to [https://accounts.google.com/](https://accounts.google.com/){:target="_blank"}
 
-    <img src="images\google-earth\new-project.png" alt="new project button" style="float:right;width:240px;"><br>
+    <img src="images\google-earth\new-project.png" alt="new project button" style="width:360px;"><br>
     <img src="images\google-earth\new-project.gif" alt="making a new project" style="width:720px;">
 
 
-<img src="images\google-earth\new-feature.png" alt="new feature button" style="float:right;width:240px;">
+<img src="images\google-earth\new-feature.png" alt="new feature button" style="float:right;width:180px;">
 
 **Adding to Your Google Earth Project**
 3.  Once you have done this, you can add your first location, route, or slide by clicking on the light blue **New Feature** drop-down menu
 
-    <img src="images\google-earth\add-placemark.png" alt="add placemark button" style="float:right;width:240px;">
+    <img src="images\google-earth\add-placemark.png" alt="add placemark button" style="float:right;width:180px;">
 
 4.  Locations
-    -   To add a location, click on **Search to add place** and type in the location's name. A red marker <img src="images\google-earth\marker.png" alt="marker" style="width:50px;"> will appear at your chosen location
+    -   To add a location, click on **Search to add place** and type in the location's name. A red marker <img src="images\google-earth\marker.png" alt="marker" style="width:20px;"> will appear at your chosen location
     
         <img src="images\google-earth\add-to-project.png" alt="add to project button" style="float:right;width:240px;">
     
