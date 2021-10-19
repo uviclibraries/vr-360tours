@@ -7,6 +7,8 @@ parent: Workshop Activities
 
 # Lapentor Activity
 
+<img src="images\lapentor\logo.png" alt="lapentor logo" style="width:720px;">
+
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Here is a sample [Lapentor Tour of the DSC](https://app.lapentor.com/sphere/digital-scholarship-commons-dsc){:target="_blank"}. Have fun!
 
 Note: The Free Virtual Tour software which support self-hosting on your own domain **INCOMPLETE**
