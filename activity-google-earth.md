@@ -97,6 +97,7 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
         
         <img src="images\google-earth\6-route.gif" alt="drawing a route" style="width:720px;">
 
-# **INCOMPLETE?**
+7.  Slide
+    -   Here you can add a fullscreen slide with text and a background (image or colour)
 
 [NEXT ACTIVITY: Lapentor 360 Tour](activity-lapentor.html){: .btn .btn-blue }
