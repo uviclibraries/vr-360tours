@@ -12,7 +12,7 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 -   The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}
 
     ### **Creating Your Google Earth Project**
-2.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon <img src="images\google-earth\menu_bar.png" alt="menu bar" style="width:25px;"> on the left
+1.  Go to [this website](https://earth.google.com/web/){:target="_blank"}, click on the menu icon <img src="images\google-earth\menu_bar.png" alt="menu bar" style="width:25px;"> on the left
 
     <img src="images\google-earth\logo1.png" alt="icons" style="float:right;width:120px;">
 
