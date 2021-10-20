@@ -26,9 +26,9 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 
 ### **Adding to Your Google Earth Project**
 
-<img src="images\google-earth\add-placemark.png" alt="add placemark button" style="float:right;width:180px;">
 
-1.  Once you have done this, you can add your first location, route, or slide by clicking on the light blue **New Feature** drop-down menu
+
+1.  Once you have done this, you can add your first location, route, or slide by clicking <img src="images\google-earth\add-placemark.png" alt="add placemark button" style="float:right;width:180px;">on the light blue **New Feature** drop-down menu
 
 2.  Locations
     -   To add a location, click on **Search to add place** and type in the location's name. A red marker <img src="images\google-earth\marker.png" alt="marker" style="width:20px;"> will appear at your chosen location
