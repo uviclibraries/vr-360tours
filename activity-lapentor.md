@@ -27,7 +27,10 @@ Note: The Free Virtual Tour software which support self-hosting on your own doma
     -   [Image 10](http://web.uvic.ca/~rmccue/360-images/windows.jpg){:target="_blank"}
     -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}
     -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}
-3.  Select the top-right corner **"+"** sign to **create a new project**
+
+    <img src="images\lapentor\logo.png" alt="lapentor logo" style="float:right;width:180px;">
+
+3.  Select the central pulsing **"+"** sign to **create a new project**
 4.  A new box will come up saying "create new project". Under **untitled** rename your project
 5.  The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process
     _Tip: the first image uploaded is the first image of the tour. Therefore, the bottom of your sidebar is the start and the top is the end_
