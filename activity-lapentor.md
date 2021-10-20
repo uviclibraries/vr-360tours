@@ -5,9 +5,9 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-# Lapentor Activity
+<img src="images\lapentor\logo.png" alt="lapentor logo" style="float:right;width:180px;">
 
-<img src="images\lapentor\logo.png" alt="lapentor logo" style="width:720px;">
+# Lapentor Activity
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Here is a sample [Lapentor Tour of the DSC](https://app.lapentor.com/sphere/digital-scholarship-commons-dsc){:target="_blank"}. Have fun!
 
