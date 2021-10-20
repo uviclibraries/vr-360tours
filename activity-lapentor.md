@@ -28,7 +28,7 @@ Note: The Free Virtual Tour software which support self-hosting on your own doma
     -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}
     -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}
 
-    <img src="images\lapentor\logo.png" alt="lapentor logo" style="float:right;width:180px;">
+    <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
 
 3.  Select the central pulsing **"+"** sign to **create a new project**
 4.  A new box will come up saying "create new project". Under **untitled** rename your project
