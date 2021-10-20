@@ -90,7 +90,7 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 
         <img src="images\google-earth\5-capture-view-2.gif" alt="capture your final view" style="width:720px;">
 
-        <img src="images\google-earth\6-route.png" alt="route" style="float:right;width:240px;">
+        <img src="images\google-earth\6-route.png" alt="route" style="float:right;width:200px;">
 
 4.  Route
     -   Selecting the **Draw line or shape** will allow you to create a route. To do this, click on your desired starting location and move your mouse to your next location. When you reach this next location, click again and continue to make as many points as you'd like! To complete the path, press **ENTER** when you're at your final point. You have now made a route!
