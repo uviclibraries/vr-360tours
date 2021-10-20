@@ -14,7 +14,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 Note: Marzipano tours are based on HTML and javascript files and require a web hosting service to publish and view
 
 1.  Go to [https://www.marzipano.net/](https://www.marzipano.net/){:target="_blank"} and click **Marzipano Tool** in the top-right corner. Click **Start**
-2.  Download some or all of the following 360 images (or use your own 360 images). Please note which folder they are downloaded into on your conputer so you can find them
+2.  Download some or all of the following 360 images (or use your own 360 images). Please note which folder they are downloaded into on your computer so you can find them
     -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}: A convocation photo
     -   [Image 2](http://web.uvic.ca/~rmccue/360-images/stacks.jpg){:target="_blank"}: Library stacks
     -   [Image 3](http://web.uvic.ca/~rmccue/360-images/3rd_floor_foyer.jpg){:target="_blank"}: DSC library 3rd floor, top of stairs
@@ -45,7 +45,7 @@ Note: Marzipano tours are based on HTML and javascript files and require a web h
         <img src="images\marzipano\4-change-settings.gif" alt="changing settings" style="width:720px;">
     
     -   Exporting: When you are finished creating your tour, you can click the Export button in the top-left. This will create a .zip file containing the HTML and javascript files for your tour. You can then unzip those files and host these files on your own web server
-    -   To upload your Marzipano tour to your personal UVic web space you'll need to set up your personal webspace. You can do this by [following the directions](http://bit.ly/2QlRZo0){:target="_blank"} to sign up for your personal webspace and following the instructions below that to upload your files:
+    -   To upload your Marzipano tour to your personal UVic web space you'll need to set up your personal webspace. You can do this by [following the directions here](http://bit.ly/2QlRZo0){:target="_blank"} to sign up for your personal webspace and following the instructions below that to upload your files:
         +   [UVic Faculty & Staff web space request](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/){:target="_blank"}
         +   [UVic Student web space request](https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php){:target="_blank"}
 
