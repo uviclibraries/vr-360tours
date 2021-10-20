@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 ---
 
-<img src="images\lapentor\logo.png" alt="lapentor logo" style="float:right;width:180px;">
+<img src="images\lapentor\logo.png" alt="lapentor logo" style="float:right;width:240px;">
 
 # Lapentor Activity
 
