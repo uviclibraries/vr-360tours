@@ -11,8 +11,8 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 -   Famous biologist Jane Goodall's exploration in Gombee, Tanzania [here](http://tiny.cc/p0x9kz){:target=_"blank_}
 -   The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}
 
-    ## **Creating Your Google Earth Project**
-1.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon <img src="images\google-earth\menu_bar.png" alt="menu bar" style="width:25px;"> on the left
+    ### **Creating Your Google Earth Project**
+2.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon <img src="images\google-earth\menu_bar.png" alt="menu bar" style="width:25px;"> on the left
 
     <img src="images\google-earth\logo1.png" alt="icons" style="float:right;width:120px;">
 
@@ -24,7 +24,7 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 
     <img src="images\google-earth\new-feature.png" alt="new feature button" style="float:right;width:180px;">
 
-    ## **Adding to Your Google Earth Project**
+    ### **Adding to Your Google Earth Project**
 3.  Once you have done this, you can add your first location, route, or slide by clicking on the light blue **New Feature** drop-down menu
 
     <img src="images\google-earth\add-placemark.png" alt="add placemark button" style="float:right;width:180px;">
