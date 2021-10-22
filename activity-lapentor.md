@@ -35,18 +35,30 @@ Note: The Free Virtual Tour software which support self-hosting on your own doma
 5.  The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process
     _Tip: the first image uploaded is the first image of the tour. Therefore, the bottom of your sidebar is the start and the top is the end_
 6.  Next, click on the images you have uploaded (you will see a checkmark on each selected image) and press **make sphere** (standard resolution)
+
+    <img src="images\lapentor\adding-photos-v2.gif" alt="adding photos" style="width:720px;">
+
 7.  Once your images have been processed, you will be able to add names to each image, hotspots to each image, change view settings of your tour, add power up features and share your tour
     -   **Adding names/titles:** Under the image on your left sidebar, click the writing under each image to change the name (this name will show up in the table of contents)
     -   **Adding hotspots:** On the right side of the screen, you can add a point hotspot, directional sound hotspot, image hotspot, video hotspot, article hotspot, info hotspot and URL hotspot (make sure to create a label for each hotspot)
         1.  Point hotspots bring us from one scene to the next. Image/video hotspots share an image/video. Article hotspots display text. Info hotspots display text when clicked. URL hotspots take viewers to a new image of the tour when clicked. When you add a hotspot, you can dragit to the point in your image that you would like it to be displayed
+        
+            <img src="images\lapentor\adding-hotspots-v2.gif" alt="adding hotspots" style="width:720px;">
+        
         2.  For each hotspot don't forget to label them and edit the parameters on the left side (once it is clicked)
-        3.  For the points hotspots, make sure to have a minimum of 2 imagesto navigate between images. That way you can create a pathway
+        3.  For the points hotspots, make sure to have a minimum of 2 images to navigate between images. That way you can create a pathway
+
+            <img src="images\lapentor\rename-hotspots-v2.gif" alt="renaming hotspots" style="width:720px;">
+
     -   **View Settings:** Under the hotspots bar, there is a square with a line through it
         1.  Set Default view
         2.  Set limit view: you can limit the view by dragging to the desired view and selecting which side (left or right) or (top/bottom) to limit the view
         3.  Set max/min zooms
         4.  Reset Zoom
         5.  Toggle mini planet: this will create a birds eye view
+
+            <img src="images\lapentor\view-settings-v2.gif" alt="adding hotspots" style="width:720px;">
+
     -   **Power Up Features:** There are many plugins and power ups. Feel free to try them out and play around to explore them in this workshop by clicking on the **rocket ship** icon on the right side
         1.  These features allow you to edit the look of icons such as hotspots, the contol bar, the scene list and many other power features. These are only visible typically during the **preview** (located in the top-middle of the window)
         
