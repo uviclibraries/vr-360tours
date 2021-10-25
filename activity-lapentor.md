@@ -15,18 +15,18 @@ Note: This free virtual tour software supports self-hosting on your own domain
 
 1.  Go to [https://lapentor.com/](https://lapentor.com/){:target="_blank"} and click **register/sign in** in the top right corner
 2.  Download some or all of the following 360 images, or use your own 360 images (please note which folder they are downloaded into on your computer so you can find them):
-    -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}
-    -   [Image 2](http://web.uvic.ca/~rmccue/360-images/stacks.jpg){:target="_blank"}
-    -   [Image 3](http://web.uvic.ca/~rmccue/360-images/3rd_floor_foyer.jpg){:target="_blank"}
-    -   [Image 4](http://web.uvic.ca/~rmccue/360-images/dsc_entry.jpg){:target="_blank"}
-    -   [Image 5](http://web.uvic.ca/~rmccue/360-images/classroom.jpg){:target="_blank"}
-    -   [Image 6](http://web.uvic.ca/~rmccue/360-images/hallway.jpg){:target="_blank"}
-    -   [Image 7](http://web.uvic.ca/~rmccue/360-images/3d_scanner_vr_room.jpg){:target="_blank"}
-    -   [Image 8](http://web.uvic.ca/~rmccue/360-images/vr_room.jpg){:target="_blank"}
-    -   [Image 9](http://web.uvic.ca/~rmccue/360-images/3d_scanner.jpg){:target="_blank"}
-    -   [Image 10](http://web.uvic.ca/~rmccue/360-images/windows.jpg){:target="_blank"}
-    -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}
-    -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}
+    -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}: A convocation photo
+    -   [Image 2](http://web.uvic.ca/~rmccue/360-images/stacks.jpg){:target="_blank"}: Library stacks
+    -   [Image 3](http://web.uvic.ca/~rmccue/360-images/3rd_floor_foyer.jpg){:target="_blank"}: DSC library 3rd floor, top of stairs
+    -   [Image 4](http://web.uvic.ca/~rmccue/360-images/dsc_entry.jpg){:target="_blank"}: DSC entry & glass stairwell
+    -   [Image 5](http://web.uvic.ca/~rmccue/360-images/classroom.jpg){:target="_blank"}: DSC classroom
+    -   [Image 6](http://web.uvic.ca/~rmccue/360-images/hallway.jpg){:target="_blank"}: DSC hallway
+    -   [Image 7](http://web.uvic.ca/~rmccue/360-images/3d_scanner_vr_room.jpg){:target="_blank"}: DSC 3D scanner & VR room hallway
+    -   [Image 8](http://web.uvic.ca/~rmccue/360-images/vr_room.jpg){:target="_blank"}: DSC VR room
+    -   [Image 9](http://web.uvic.ca/~rmccue/360-images/3d_scanner.jpg){:target="_blank"}: DSC 3D scanner room
+    -   [Image 10](http://web.uvic.ca/~rmccue/360-images/windows.jpg){:target="_blank"}: DSC classroom windows
+    -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}: DSC 3D printers
+    -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}: DSC offices
 
     <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
 
