@@ -41,7 +41,7 @@ Note: The Free Virtual Tour software which support self-hosting on your own doma
 7.  Once your images have been processed, you will be able to add names to each image, hotspots to each image, change view settings of your tour, add power up features and share your tour
     -   **Adding names/titles:** Under the image on your left sidebar, click the writing under each image to change the name (this name will show up in the table of contents)
     -   **Adding hotspots:** On the right side of the screen, you can add a point hotspot, directional sound hotspot, image hotspot, video hotspot, article hotspot, info hotspot and URL hotspot (make sure to create a label for each hotspot)
-        1.  Point hotspots bring us from one scene to the next. Image/video hotspots share an image/video. Article hotspots display text. Info hotspots display text when clicked. URL hotspots take viewers to a new image of the tour when clicked. When you add a hotspot, you can dragit to the point in your image that you would like it to be displayed
+        1.  Point hotspots bring us from one scene to the next. Image/video hotspots share an image/video. Article hotspots display text. Info hotspots display text when clicked. URL hotspots take viewers to a new image of the tour when clicked. When you add a hotspot, you can drag it to the point in your image that you would like it to be displayed
         
             <img src="images\lapentor\adding-hotspots-v2.gif" alt="adding hotspots" style="width:720px;">
         
