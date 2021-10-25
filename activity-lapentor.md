@@ -11,9 +11,9 @@ parent: Workshop Activities
 
 If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Here is a sample [Lapentor Tour of the DSC](https://app.lapentor.com/sphere/digital-scholarship-commons-dsc){:target="_blank"}. Have fun!
 
-Note: The Free Virtual Tour software which support self-hosting on your own domain **INCOMPLETE**
+Note: This free virtual tour software supports self-hosting on your own domain
 
-1.  Go to [https://lapentor.com/](https://lapentor.com/){;target="_blank"} and click **register/sign in** in the top right corner
+1.  Go to [https://lapentor.com/](https://lapentor.com/){:target="_blank"} and click **register/sign in** in the top right corner
 2.  Download some or all of the following 360 images, or use your own 360 images (please note which folder they are downloaded into on your computer so you can find them):
     -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}
     -   [Image 2](http://web.uvic.ca/~rmccue/360-images/stacks.jpg){:target="_blank"}
@@ -36,34 +36,38 @@ Note: The Free Virtual Tour software which support self-hosting on your own doma
     _Tip: the first image uploaded is the first image of the tour. Therefore, the bottom of your sidebar is the start and the top is the end_
 6.  Next, click on the images you have uploaded (you will see a checkmark on each selected image) and press **make sphere** (standard resolution)
 
-    <img src="images\lapentor\lapentor-add-hotspot-v4.gif" alt="adding hotspots" style="width:720px;">
-    <img src="images\lapentor\lapentor-limit-view-v4.gif" alt="view limit settings" style="width:720px;">
-    <img src="images\lapentor\lapentor-limit-zoom-v4.gif" alt="zoom limit settings" style="width:720px;">
-    <img src="images\lapentor\lapentor-mini-planet-v3.gif" alt="mini planet demo" style="width:720px;">
-    <img src="images\lapentor\lapentor-rename-hotspot-v3.gif" alt="renaming hotspots" style="width:720px;">
-    <img src="images\lapentor\lapentor-rename-v3.gif" alt="renaming photos" style="width:720px;">
     <img src="images\lapentor\lapentor-upload-v3.gif" alt="uploading photos" style="width:720px;">
 
 7.  Once your images have been processed, you will be able to add names to each image, hotspots to each image, change view settings of your tour, add power up features and share your tour
     -   **Adding names/titles:** Under the image on your left sidebar, click the writing under each image to change the name (this name will show up in the table of contents)
+
+        <img src="images\lapentor\lapentor-rename-v3.gif" alt="renaming photos" style="width:720px;">
+
     -   **Adding hotspots:** On the right side of the screen, you can add a point hotspot, directional sound hotspot, image hotspot, video hotspot, article hotspot, info hotspot and URL hotspot (make sure to create a label for each hotspot)
         1.  Point hotspots bring us from one scene to the next. Image/video hotspots share an image/video. Article hotspots display text. Info hotspots display text when clicked. URL hotspots take viewers to a new image of the tour when clicked. When you add a hotspot, you can drag it to the point in your image that you would like it to be displayed
         
-            <img src="images\lapentor\logo.gif" alt="adding hotspots" style="width:720px;">
+            <img src="images\lapentor\lapentor-add-hotspot-v4.gif" alt="adding hotspots" style="width:720px;">
         
         2.  For each hotspot don't forget to label them and edit the parameters on the left side (once it is clicked)
-        3.  For the points hotspots, make sure to have a minimum of 2 images to navigate between images. That way you can create a pathway
 
-            <img src="images\lapentor\logo.gif" alt="renaming hotspots" style="width:720px;">
+            <img src="images\lapentor\lapentor-rename-hotspot-v3.gif" alt="renaming hotspots" style="width:720px;">
+
+        3.  For the points hotspots, make sure to have a minimum of 2 images to navigate between images. That way you can create a pathway
 
     -   **View Settings:** Under the hotspots bar, there is a square with a line through it
         1.  Set Default view
         2.  Set limit view: you can limit the view by dragging to the desired view and selecting which side (left or right) or (top/bottom) to limit the view
+
+            <img src="images\lapentor\lapentor-limit-view-v4.gif" alt="view limit settings" style="width:720px;">
+
         3.  Set max/min zooms
+
+            <img src="images\lapentor\lapentor-limit-zoom-v4.gif" alt="zoom limit settings" style="width:720px;">
+
         4.  Reset Zoom
         5.  Toggle mini planet: this will create a birds eye view
 
-            <img src="images\lapentor\logo.gif" alt="adding hotspots" style="width:720px;">
+            <img src="images\lapentor\lapentor-mini-planet-v3.gif" alt="mini planet demo" style="width:720px;">
 
     -   **Power Up Features:** There are many plugins and power ups. Feel free to try them out and play around to explore them in this workshop by clicking on the **rocket ship** icon on the right side
         1.  These features allow you to edit the look of icons such as hotspots, the contol bar, the scene list and many other power features. These are only visible typically during the **preview** (located in the top-middle of the window)
