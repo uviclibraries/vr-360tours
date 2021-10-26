@@ -76,8 +76,9 @@ Note: This free virtual tour software supports self-hosting on your own domain
         
     -   **Share/Get link:** (Note: it costs 10 dollars to export) but you can share the link via online platforms (facebook, twitter, reddit), you can embed the code and/or use the QR code, you can also **get the link** by copying it on the top right
     -   To upload your Lapentor tour to your personal UVic web space you'll need to set up your personal webspace. You can do this by [following the directions here](http://bit.ly/2QlRZo0){:target="_blank"} to sign up for your personal webspace and following the instructions below that to upload your files:
-        1.  Staff: [https://www.uvic.ca/systems/support/web/webhosting-fac-staff/](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/){:target="_blank"}
-        2.  Students: [https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php](https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php){:target="_blank"}
+        1.  [UVic Faculty & Staff web space request](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/){:target="_blank"}
+        2.  [UVic Student web space request](https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php){:target="_blank"}
+
     -   Optional: [Video series](https://www.youtube.com/watch?v=CHuo4LzjaCA&list=PLbAeV85RH0dayHh1vWmbmr7N-cVdRk7ld){:target="_blank"} to showcase some of the steps and settings:
         <iframe width="560" height="315" src="https://www.youtube.com/embed/CHuo4LzjaCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
