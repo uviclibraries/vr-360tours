@@ -9,7 +9,7 @@ parent: Workshop Activities
 
 # Marzipano 360 Tour Activity
 
-If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Here is a sample [Marzipano tour of the DSC LINK BROKEN](https://www.youtube.com/watch?v=Ag1o3koTLWM){:target="_blank"}. Have fun!
+If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance. Here is a sample [Marzipano tour of the DSC](https://studentweb.uvic.ca/~dreid820/marzipano/){:target="_blank"}. Have fun!
 
 Note: Marzipano tours are based on HTML and javascript files and require a web hosting service to publish and view
 
