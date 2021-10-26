@@ -32,7 +32,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
 
 3.  Select the central pulsing **"+"** sign to **create a new project**
 4.  A new box will come up saying "create new project". Under **untitled** rename your project
-5.  The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process<br>
+5.  The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process<br><br>
     _Tip: the first image uploaded is the first image of the tour. Therefore, the bottom of your sidebar is the start and the top is the end_
 6.  Next, click on the images you have uploaded (you will see a checkmark on each selected image) and press **make sphere** (standard resolution)
 
