@@ -79,6 +79,6 @@ Note: This free virtual tour software supports self-hosting on your own domain
         1.  Staff: [https://www.uvic.ca/systems/support/web/webhosting-fac-staff/](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/){:target="_blank"}
         2.  Students: [https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php](https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php){:target="_blank"}
     -   Optional: [Video series](https://www.youtube.com/watch?v=CHuo4LzjaCA&list=PLbAeV85RH0dayHh1vWmbmr7N-cVdRk7ld){:target="_blank"} to showcase some of the steps and settings:
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/CHuo4LzjaCA&list=PLbAeV85RH0dayHh1vWmbmr7N-cVdRk7ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CHuo4LzjaCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
