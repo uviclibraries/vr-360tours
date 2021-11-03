@@ -13,7 +13,7 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### Earn an Informal Credential or Badge for Taguette
+### Earn an Informal Credential or Badge for VR 360 Tours
 
 - If you’d like to earn a DSC badge for this workshop, complete the Google projects **AND** the Marzipano project, then email links to both projects to [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 - (_Note: Because of the large file size you will have to share your Marzipano project file using a tool like Google Docs or Dropbox_)
