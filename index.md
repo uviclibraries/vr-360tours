@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images\logo.png" alt="360 tours logo" style="float:right;width:250px;"> 
 
-# Introduction to Virtual Reality, Augmented Reality & 360 Tours
+# Introduction to Virtual Reality, Augmented Reality, & 360 Tours
 
 - Pre-workshop activities: 7 min 
 - Introductory presentation: 10 min
