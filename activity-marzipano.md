@@ -49,4 +49,4 @@ Note: Marzipano tours are based on HTML and javascript files and require a web h
         1.  [UVic Faculty & Staff web space request](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/){:target="_blank"}
         2.  [UVic Student web space request](https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php){:target="_blank"}
 
-[NEXT ACTIVITY: Google Earth Narrative Map](activity-google-earth.html){: .btn .btn-blue }
+[NEXT ACTIVITY: Lapentor 360 Tour](activity-lapentor.html){: .btn .btn-blue }
