@@ -13,15 +13,10 @@ nav_order: 1
 
 ## Why Create VR, AR, & 360 Tours?
 
-Let's start with some definitions so that we are all on the same page. Virtual Reality or VR is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using equipment like VR Goggles.
-
-Virtual Reality - Everyone has a turn in the VR Room!
-Google Earth Narrative Map
-Marzipano 360 Tour
-Lapentor 360 Tour
-Augmented Reality (AR) Activity (coming soon)
-
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used.
+Let's start with some definitions so that we are all on the same page. 
+- **Virtual Reality** or **VR** is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using equipment like VR Goggles.
+- **Augmented Reality** or **AR** is... Augmented Reality (AR) Activity (coming soon)
+- **360 Tours & 360 Video** are... Marzipano 360 Tour, Lapentor 360 Tour, Google Earth Narrative Map
 
 ## Learning objectives
 
