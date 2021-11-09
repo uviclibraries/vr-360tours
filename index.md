@@ -5,15 +5,15 @@ nav_order: 1
 ---
 <img src="images\logo.png" alt="360 tours logo" style="float:right;width:250px;"> 
 
-# Introduction to Virtual Reality & 360 Tours
+# Introduction to Virtual Reality, Augmented Reality & 360 Tours
 
 - Pre-workshop activities: 7 min 
 - Introductory presentation: 10 min
 - Hands-on activities: 80 min
 
-## Why Create 360 VR Tours?
+## Why Create VR, AR, & 360 Tours?
 
-
+Let's start with some definitions so that we are all on the same page. Virtual Reality or VR is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using equipment like VR Goggles.
 
 Virtual Reality - Everyone has a turn in the VR Room!
 Google Earth Narrative Map
