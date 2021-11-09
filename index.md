@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images\logo.png" alt="360 tours logo" style="float:right;width:180px;"> 
+<img src="images\logo.png" alt="360 tours logo" style="float:right;width:250px;"> 
 
 # Introduction to Virtual Reality & 360 Tours
 
@@ -13,11 +13,15 @@ nav_order: 1
 
 ## Why Create 360 VR Tours?
 
-# **BETTER INTRO HERE**
+
+
+Virtual Reality - Everyone has a turn in the VR Room!
+Google Earth Narrative Map
+Marzipano 360 Tour
+Lapentor 360 Tour
+Augmented Reality (AR) Activity (coming soon)
 
 [TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used.
-
-More text coming....
 
 ## Learning objectives
 
