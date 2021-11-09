@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Marzipano 360 Tour
-nav_order: 2
+nav_order: 3
 parent: Workshop Activities
 ---
 
