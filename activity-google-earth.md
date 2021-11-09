@@ -96,4 +96,4 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
 5.  Slide
     -   Here you can add a fullscreen slide with text and a background (image or colour)
 
-[NEXT ACTIVITY: Lapentor 360 Tour](activity-lapentor.html){: .btn .btn-blue }
+[NEXT ACTIVITY: Marzipano 360 Tour](activity-marzipano.html){: .btn .btn-blue }
