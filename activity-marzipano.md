@@ -14,7 +14,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 Note: Marzipano tours are based on HTML and javascript files and require a web hosting service to publish and view
 
 1.  Go to [https://www.marzipano.net/](https://www.marzipano.net/){:target="_blank"} and click **Marzipano Tool** in the top-right corner. Click **Start**
-2.  Download some or all of the following 360 images (or use your own 360 images). Please note which folder they are downloaded into on your computer so you can find them
+2.  Download some or all of the following 360 images (or use your own 360 images). Please note which folder they are downloaded into on your computer so you can find them:
     -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}: A convocation photo
     -   [Image 2](http://web.uvic.ca/~rmccue/360-images/stacks.jpg){:target="_blank"}: Library stacks
     -   [Image 3](http://web.uvic.ca/~rmccue/360-images/3rd_floor_foyer.jpg){:target="_blank"}: DSC library 3rd floor, top of stairs
