@@ -28,9 +28,8 @@ Another benefit is heightened spatial understanding and immersion that Virtual R
 At the end of this workshop, you will be able to:
 
 1. Explain the difference between Augmented Reality (AR), and Virtual Reality (VR), 360 Video, and 360 Tours
-2. Create a 360 Tour using Marzipano
-3. Create a Google Virtual Tour using a mix of Google Street View and personal 360 images
 4. Create a Tour using Google Earth Narrative Map
-5. Create an Augmented Reality experience on a mobile phone
+2. Create a 360 Tour using Marzipano or Lapentor
+5. Create an Augmented Reality experience for mobile phones
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
