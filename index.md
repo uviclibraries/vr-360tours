@@ -18,6 +18,7 @@ Let's start with some definitions so that we are all on the same page:
 - **Augmented Reality** or **AR** is a technology that lets people superimpose digital content (images, sounds, text) over a real-world environment. This is most commonly done using smart phone applications (like Pokemon Go) or less commonly using specialized headset glasses (like Microsoft Hololens). [More information about AR](https://www.threekit.com/blog/what-is-augmented-reality).{:target="_blank"}.  
 - **360 Tours & 360 Video** are... Marzipano 360 Tour, Lapentor 360 Tour, Google Earth Narrative Map
 
+### Benefits of VR, AR, & 360 Tours
 - VR, AR, & 360 Video viewed using headsets that take up the viewers full field of view can make for a much more impactiful experience for people than a similar experience using a smart phone or computer. One example of this is... 360 video research in refugee camps leads to higher empathy than people who watched regular videos on their computers or phones.
 - Heightened spatial understanding/immersion for Augmented Reality and 360 Tours
 - Point of need information is available to people using AR apps...
