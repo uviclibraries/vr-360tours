@@ -18,8 +18,8 @@ Let's start with some definitions so that we are all on the same page:
 - **Augmented Reality** or **AR** is a technology that lets people superimpose digital content (images, sounds, text) over a real-world environment. This is most commonly done using smart phone applications (like Pokemon Go) or less commonly using specialized AR headset glasses (like Microsoft Hololens). [More information about AR](https://www.threekit.com/blog/what-is-augmented-reality).{:target="_blank"}.  
 - **360 Tours & 360 Video** can be viewed in VR headsets, but are more commonly viewed on smartphones and web browsers. 360-Tours are a series of 360-degree still photograpi that the viewer navigates through at their own pace, and can have embeded photos, videos and text in them. 
 
-### Benefits of VR, AR, & 360 Tours
-VR, AR, 360-Tours, and 360-Videos viewed using headsets that take up the viewers full field of view can make for a much more impactiful experience for people than a similar experience using a smart phone or computer. One example of this is... 360 video research in refugee camps leads to higher empathy than people who watched regular videos on their computers or phones.
+## Benefits of VR, AR, & 360 Tours
+VR, AR, 360-Tours, and 360-Videos viewed using headsets that take up the viewers full field of view can make for a much more impactiful experience for people than a similar experience using a smart phone or computer. One example of this is a UN authored study of (emersive 360-videos)[https://techcrunch.com/2015/01/23/un-launches-powerful-oculus-virtual-reality-film-following-syrian-refugee-girl/].{:target="_blank"} of the life of a resident in Syrian refugee camp which when shown to westerners, lead to much higher empathy than people who watched regular videos on their computers or phones.
 
 Another benefit is Heightened spatial understanding/immersion for Augmented Reality and 360 Tours
 
