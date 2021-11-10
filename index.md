@@ -11,7 +11,7 @@ nav_order: 1
 - Introductory presentation: 10 min
 - Hands-on activities: 80 min
 
-## Why Create VR, AR, & 360 Tours?
+## Why Create VR, AR, & 360-Tours?
 
 Let's start with some definitions so that we are all on the same page: 
 - **Virtual Reality** or **VR** is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using equipment like VR Goggles that covers their complete field of view. [More information about VR](https://guides.library.utoronto.ca/c.php?g=607624&p=4938314).{:target="_blank"}.
@@ -21,9 +21,7 @@ Let's start with some definitions so that we are all on the same page:
 ## Benefits of VR, AR, & 360 Tours
 VR, AR, 360-Tours, and 360-Videos viewed using headsets that take up the viewers full field of view can make for a much more impactiful experience for people than a similar experience using a smart phone or computer. One example of this is a UN authored study of (emersive 360-videos)[https://techcrunch.com/2015/01/23/un-launches-powerful-oculus-virtual-reality-film-following-syrian-refugee-girl/].{:target="_blank"} of the life of a resident in Syrian refugee camp which when shown to westerners, lead to much higher empathy than people who watched regular videos on their computers or phones.
 
-Another benefit is Heightened spatial understanding/immersion for Augmented Reality and 360 Tours
-
-AR is a great tool to privide point of need information to people using smartphone AR apps.
+Another benefit is heightened spatial understanding and immersion that Virtual Reality and 360-Tours provide, even for viewers using smartphones and web browsers. AR is a great tool for prividing point of need text, video, and/or photographic information to people using smartphone AR apps.
 
 ## Learning objectives
 
