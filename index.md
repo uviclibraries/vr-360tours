@@ -14,14 +14,13 @@ nav_order: 1
 ## Why Create VR, AR, & 360 Tours?
 
 Let's start with some definitions so that we are all on the same page: 
-- **Virtual Reality** or **VR** is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using equipment like VR Goggles.
-- **Augmented Reality** or **AR** is... Augmented Reality (AR) Activity (coming soon)
+- **Virtual Reality** or **VR** is a computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using equipment like VR Goggles that covers their complete field of view. [More information about VR](https://guides.library.utoronto.ca/c.php?g=607624&p=4938314).{:target="_blank"}.
+- **Augmented Reality** or **AR** is a technology that lets people superimpose digital content (images, sounds, text) over a real-world environment. This is most commonly done using smart phone applications (like Pokemon Go) or less commonly using specialized headset glasses (like Microsoft Hololens). [More information about AR](https://www.threekit.com/blog/what-is-augmented-reality).{:target="_blank"}.  
 - **360 Tours & 360 Video** are... Marzipano 360 Tour, Lapentor 360 Tour, Google Earth Narrative Map
 
-VR & 360 Video emersion can make for a much more impactiful experience for people using headsets that cover their full vield view.
-One example of this is... 360 video research in refugee camps leads to higher empathy than people who watched regular videos on their computers or phones.
-Heightened spatial understanding/immersion for Augmented Reality and 360 Tours
-Point of need information is available to people using AR apps...
+- VR, AR, & 360 Video viewed using headsets that take up the viewers full field of view can make for a much more impactiful experience for people than a similar experience using a smart phone or computer. One example of this is... 360 video research in refugee camps leads to higher empathy than people who watched regular videos on their computers or phones.
+- Heightened spatial understanding/immersion for Augmented Reality and 360 Tours
+- Point of need information is available to people using AR apps...
 
 ## Learning objectives
 
