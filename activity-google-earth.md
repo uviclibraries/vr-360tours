@@ -5,7 +5,7 @@ nav_order: 2
 parent: Workshop Activities
 ---
 
-# Introduction to Narrative Maps with Google Earth
+# Introduction to Narrative Maps with Google Earth 
 
 Google Earth is a multiplatform and web program that uses aerial photography, superimposed images, and GIS data to create a 3D representation of the earth. Users can enter addresses and geographical coordinates to view areas at various ages. In 2019, Google added creativity options that would allow individuals to tell their own stories using 3D streetviews, aerial footage, placemarks, routes, shapes, and descriptive text. Here are two examples:
 -   Famous biologist Jane Goodall's exploration in Gombee, Tanzania [here](http://tiny.cc/p0x9kz){:target="_blank"}
