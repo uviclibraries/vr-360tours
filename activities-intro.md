@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 Please review the following links:
 
-- OPTIOINAL: Read the [Introductory Slides](http://bit.ly/2SDRAml){:target="_blank"} for the workshop
+- Read the [Introductory Slides](http://bit.ly/2SDRAml){:target="_blank"} for the workshop
 - Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
 
 [NEXT STEP: Google Earth Narritive Map](activity-google-earth.html){: .btn .btn-blue }
