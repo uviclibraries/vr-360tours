@@ -29,7 +29,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
     -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}: DSC 3D printers
     -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}: DSC offices
 
- <button onclick="toggle('gif1')">Show/Hide Animation</button>
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
     
 <div id="gif1">
      <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
@@ -53,6 +53,8 @@ Note: This free virtual tour software supports self-hosting on your own domain
 7.  Once your images have been processed, you will be able to add names to each image, hotspots to each image, change view settings of your tour, add power up features and share your tour
     -   **Adding names/titles:** Under the image on your left sidebar, click the writing under each image to change the name (this name will show up in the table of contents)
 
+<button onclick="toggle('gif3')">Show/Hide Animation</button>
+
 <div id="gif3">
         <img src="images\lapentor\lapentor-rename-v3.gif" alt="renaming photos" style="width:720px;">
     </div>
@@ -61,7 +63,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
     -   **Adding hotspots:** On the right side of the screen, you can add a point hotspot, directional sound hotspot, image hotspot, video hotspot, article hotspot, info hotspot and URL hotspot (make sure to create a label for each hotspot)
         1.  Point hotspots bring us from one scene to the next. Image/video hotspots share an image/video. Article hotspots display text. Info hotspots display text when clicked. URL hotspots take viewers to a new image of the tour when clicked. When you add a hotspot, you can drag it to the point in your image that you would like it to be displayed
         
-        <button onclick="toggle('gif3')">Show/Hide Animation</button>
+<button onclick="toggle('gif4')">Show/Hide Animation</button>
     
 <div id="gif4">
       <img src="images\lapentor\lapentor-add-hotspot-v4.gif" alt="adding hotspots" style="width:720px;">
@@ -71,7 +73,11 @@ Note: This free virtual tour software supports self-hosting on your own domain
         
    2.  For each hotspot don't forget to label them and edit the parameters on the left side (once it is clicked)
 
+<button onclick="toggle('gif5')">Show/Hide Animation</button>
+    
+<div id="gif5">
             <img src="images\lapentor\lapentor-rename-hotspot-v3.gif" alt="renaming hotspots" style="width:720px;">
+    </div>
 
         
    3.  For the points hotspots, make sure to have a minimum of 2 images to navigate between images. That way you can create a pathway
@@ -80,9 +86,9 @@ Note: This free virtual tour software supports self-hosting on your own domain
         1.  Set Default view
         2.  Set limit view: you can limit the view by dragging to the desired view and selecting which side (left or right) or (top/bottom) to limit the view
 
- <button onclick="toggle('gif4')">Show/Hide Animation</button>
+<button onclick="toggle('gif6')">Show/Hide Animation</button>
     
-<div id="gif5">
+<div id="gif6">
       <img src="images\lapentor\lapentor-limit-view-v4.gif" alt="view limit settings" style="width:720px;">
     </div>
 
@@ -90,14 +96,17 @@ Note: This free virtual tour software supports self-hosting on your own domain
 
 3.  Set max/min zooms
 
-            <img src="images\lapentor\lapentor-limit-zoom-v4.gif" alt="zoom limit settings" style="width:720px;">
+
+<div id="gif7">
+    <img src="images\lapentor\lapentor-limit-zoom-v4.gif" alt="zoom limit settings" style="width:720px;">
+</div>
 
 4.  Reset Zoom
 5.  Toggle mini planet: this will create a birds eye view
 
-<button onclick="toggle('gif5')">Show/Hide Animation</button>
+<button onclick="toggle('gif8')">Show/Hide Animation</button>
     
-<div id="gif6">
+<div id="gif8">
       <img src="images\lapentor\lapentor-mini-planet-v3.gif" alt="mini planet demo" style="width:720px;">
     </div>
 
