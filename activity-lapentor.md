@@ -14,6 +14,7 @@ If you have any questions or get stuck as you work through this in-class exercis
 
 Note: This free virtual tour software supports self-hosting on your own domain
 
+<!-- 1 -->
 1.  Go to [https://lapentor.com/](https://lapentor.com/){:target="_blank"} and click **register/sign in** in the top right corner
 2.  Download some or all of the following 360 images, or use your own 360 images (please note which folder they are downloaded into on your computer so you can find them):
     -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}: A convocation photo
@@ -29,10 +30,9 @@ Note: This free virtual tour software supports self-hosting on your own domain
     -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}: DSC 3D printers
     -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}: DSC offices
 
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
-    
-<div id="gif1">
-     <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
     </div>
 
 3.  Select the central pulsing **"+"** sign to **create a new project**
@@ -41,10 +41,9 @@ Note: This free virtual tour software supports self-hosting on your own domain
     _Tip: the first image uploaded is the first image of the tour. Therefore, the bottom of your sidebar is the start and the top is the end_
 6.  Next, click on the images you have uploaded (you will see a checkmark on each selected image) and press **make sphere** (standard resolution)
 
-<button onclick="toggle('gif2')">Show/Hide Animation</button>
-    
-<div id="gif2">
-      <img src="images\lapentor\lapentor-upload-v3.gif" alt="uploading photos" style="width:720px;">
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
+        <img src="images\lapentor\lapentor-upload-v3.gif" alt="uploading photos" style="width:720px;">
     </div>
 
 
