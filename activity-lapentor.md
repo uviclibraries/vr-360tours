@@ -35,8 +35,6 @@ Note: This free virtual tour software supports self-hosting on your own domain
      <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
     </div>
 
-    
-
 3.  Select the central pulsing **"+"** sign to **create a new project**
 4.  A new box will come up saying "create new project". Under **untitled** rename your project
 5.  The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process<br><br>
@@ -70,8 +68,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
     </div>
 
             
-        
-   2.  For each hotspot don't forget to label them and edit the parameters on the left side (once it is clicked)
+        2.  For each hotspot don't forget to label them and edit the parameters on the left side (once it is clicked)
 
 <button onclick="toggle('gif5')">Show/Hide Animation</button>
     
@@ -79,8 +76,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
             <img src="images\lapentor\lapentor-rename-hotspot-v3.gif" alt="renaming hotspots" style="width:720px;">
     </div>
 
-        
-   3.  For the points hotspots, make sure to have a minimum of 2 images to navigate between images. That way you can create a pathway
+        3.  For the points hotspots, make sure to have a minimum of 2 images to navigate between images. That way you can create a pathway
 
     -   **View Settings:** Under the hotspots bar, there is a square with a line through it
         1.  Set Default view
@@ -96,6 +92,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
 
 3.  Set max/min zooms
 
+<button onclick="toggle('gif7')">Show/Hide Animation</button>
 
 <div id="gif7">
     <img src="images\lapentor\lapentor-limit-zoom-v4.gif" alt="zoom limit settings" style="width:720px;">
