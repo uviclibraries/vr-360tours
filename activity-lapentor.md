@@ -15,8 +15,8 @@ If you have any questions or get stuck as you work through this in-class exercis
 Note: This free virtual tour software supports self-hosting on your own domain
 
 <!-- 1 -->
-1.  Go to [https://lapentor.com/](https://lapentor.com/){:target="_blank"} and click **register/sign in** in the top right corner
-2.  Download some or all of the following 360 images, or use your own 360 images (please note which folder they are downloaded into on your computer so you can find them):
+1. Go to [https://lapentor.com/](https://lapentor.com/){:target="_blank"} and click **register/sign in** in the top right corner
+2. Download some or all of the following 360 images, or use your own 360 images (please note which folder they are downloaded into on your computer so you can find them):
     -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}: A convocation photo
     -   [Image 2](http://web.uvic.ca/~rmccue/360-images/stacks.jpg){:target="_blank"}: Library stacks
     -   [Image 3](http://web.uvic.ca/~rmccue/360-images/3rd_floor_foyer.jpg){:target="_blank"}: DSC library 3rd floor, top of stairs
@@ -30,12 +30,12 @@ Note: This free virtual tour software supports self-hosting on your own domain
     -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}: DSC 3D printers
     -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}: DSC offices
 
-    <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+<button onclick="toggle('gif1')">Show/Hide Animation</button>
+<div id="gif1">
     <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
-    </div>
+</div>
 
-3.  Select the central pulsing **"+"** sign to **create a new project**
+3. Select the central pulsing **"+"** sign to **create a new project**
 4.  A new box will come up saying "create new project". Under **untitled** rename your project
 5.  The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process<br><br>
     _Tip: the first image uploaded is the first image of the tour. Therefore, the bottom of your sidebar is the start and the top is the end_
@@ -85,7 +85,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
     
 <div id="gif6">
       <img src="images\lapentor\lapentor-limit-view-v4.gif" alt="view limit settings" style="width:720px;">
-    </div>
+</div>
 
         
 
