@@ -30,10 +30,10 @@ Note: This free virtual tour software supports self-hosting on your own domain
     -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}: DSC 3D printers
     -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}: DSC offices
 
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images\lapentor\lapentor-new-project.gif" alt="create new project button" style="float:right;width:180px;">
-</div>
+    </div>
 
 3. Select the central pulsing **"+"** sign to **create a new project**
 4.  A new box will come up saying "create new project". Under **untitled** rename your project
