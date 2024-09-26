@@ -36,43 +36,38 @@ Note: This free virtual tour software supports self-hosting on your own domain
     </div>
 
 3. Select the central pulsing **"+"** sign to **create a new project**
-4.  A new box will come up saying "create new project". Under **untitled** rename your project
-5.  The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process<br><br>
+4. A new box will come up saying "create new project". Under **untitled** rename your project
+5. The media library will appear and ask to select, drag or upload. Drag the images you wish to use to the dropbox. (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process<br><br>
     _Tip: the first image uploaded is the first image of the tour. Therefore, the bottom of your sidebar is the start and the top is the end_
-6.  Next, click on the images you have uploaded (you will see a checkmark on each selected image) and press **make sphere** (standard resolution)
+6. Next, click on the images you have uploaded (you will see a checkmark on each selected image) and press **make sphere** (standard resolution)
 
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
-        <img src="images\lapentor\lapentor-upload-v3.gif" alt="uploading photos" style="width:720px;">
+    <img src="images\lapentor\lapentor-upload-v3.gif" alt="uploading photos" style="width:720px;">
     </div>
 
 
-7.  Once your images have been processed, you will be able to add names to each image, hotspots to each image, change view settings of your tour, add power up features and share your tour
+7. Once your images have been processed, you will be able to add names to each image, hotspots to each image, change view settings of your tour, add power up features and share your tour
     -   **Adding names/titles:** Under the image on your left sidebar, click the writing under each image to change the name (this name will show up in the table of contents)
 
-<button onclick="toggle('gif3')">Show/Hide Animation</button>
-
-<div id="gif3">
-        <img src="images\lapentor\lapentor-rename-v3.gif" alt="renaming photos" style="width:720px;">
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images\lapentor\lapentor-rename-v3.gif" alt="renaming photos" style="width:720px;">
     </div>
 
-
-    -   **Adding hotspots:** On the right side of the screen, you can add a point hotspot, directional sound hotspot, image hotspot, video hotspot, article hotspot, info hotspot and URL hotspot (make sure to create a label for each hotspot)
+    **Adding hotspots:** On the right side of the screen, you can add a point hotspot, directional sound hotspot, image hotspot, video hotspot, article hotspot, info hotspot and URL hotspot (make sure to create a label for each hotspot)
         1.  Point hotspots bring us from one scene to the next. Image/video hotspots share an image/video. Article hotspots display text. Info hotspots display text when clicked. URL hotspots take viewers to a new image of the tour when clicked. When you add a hotspot, you can drag it to the point in your image that you would like it to be displayed
         
-<button onclick="toggle('gif4')">Show/Hide Animation</button>
-    
-<div id="gif4">
-      <img src="images\lapentor\lapentor-add-hotspot-v4.gif" alt="adding hotspots" style="width:720px;">
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
+    <img src="images\lapentor\lapentor-add-hotspot-v4.gif" alt="adding hotspots" style="width:720px;">
     </div>
 
-            
         2.  For each hotspot don't forget to label them and edit the parameters on the left side (once it is clicked)
 
-<button onclick="toggle('gif5')">Show/Hide Animation</button>
-    
-<div id="gif5">
-            <img src="images\lapentor\lapentor-rename-hotspot-v3.gif" alt="renaming hotspots" style="width:720px;">
+    <button onclick="toggle('gif5')">Show/Hide Animation</button>
+    <div id="gif5">
+    <img src="images\lapentor\lapentor-rename-hotspot-v3.gif" alt="renaming hotspots" style="width:720px;">
     </div>
 
         3.  For the points hotspots, make sure to have a minimum of 2 images to navigate between images. That way you can create a pathway
@@ -81,29 +76,26 @@ Note: This free virtual tour software supports self-hosting on your own domain
         1.  Set Default view
         2.  Set limit view: you can limit the view by dragging to the desired view and selecting which side (left or right) or (top/bottom) to limit the view
 
-<button onclick="toggle('gif6')">Show/Hide Animation</button>
-    
-<div id="gif6">
-      <img src="images\lapentor\lapentor-limit-view-v4.gif" alt="view limit settings" style="width:720px;">
-</div>
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
+    <img src="images\lapentor\lapentor-limit-view-v4.gif" alt="view limit settings" style="width:720px;">
+    </div>
 
         
 
 3.  Set max/min zooms
 
-<button onclick="toggle('gif7')">Show/Hide Animation</button>
-
-<div id="gif7">
+    <button onclick="toggle('gif7')">Show/Hide Animation</button>
+    <div id="gif7">
     <img src="images\lapentor\lapentor-limit-zoom-v4.gif" alt="zoom limit settings" style="width:720px;">
-</div>
+    </div>
 
 4.  Reset Zoom
 5.  Toggle mini planet: this will create a birds eye view
 
-<button onclick="toggle('gif8')">Show/Hide Animation</button>
-    
-<div id="gif8">
-      <img src="images\lapentor\lapentor-mini-planet-v3.gif" alt="mini planet demo" style="width:720px;">
+    <button onclick="toggle('gif8')">Show/Hide Animation</button>
+    <div id="gif8">
+    <img src="images\lapentor\lapentor-mini-planet-v3.gif" alt="mini planet demo" style="width:720px;">
     </div>
 
             
