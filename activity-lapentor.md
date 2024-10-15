@@ -125,4 +125,4 @@ Note: This free virtual tour software supports self-hosting on your own domain
     }
 </script>
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Google Earth](activity-google-earth.html){: .btn .btn-blue }
