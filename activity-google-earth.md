@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Google Earth Narrative Map
-nav_order: 2
+nav_order: 11
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
@@ -162,4 +162,4 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
     }
 </script>
 
-[NEXT ACTIVITY: Marzipano 360 Tour](activity-marzipano.html){: .btn .btn-blue }
+[NEXT ACTIVITY: Marzipano 360 Tour](informal-credentials.html){: .btn .btn-blue }
