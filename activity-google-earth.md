@@ -162,4 +162,4 @@ Google Earth is a multiplatform and web program that uses aerial photography, su
     }
 </script>
 
-[NEXT ACTIVITY: Marzipano 360 Tour](informal-credentials.html){: .btn .btn-blue }
+[NEXT ACTIVITY: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
