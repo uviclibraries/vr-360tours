@@ -1,4 +1,4 @@
-# Virtual Reality & Creating 360 Tours
+# 360 Tours & Narrative Maps
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/vr-360tours/
