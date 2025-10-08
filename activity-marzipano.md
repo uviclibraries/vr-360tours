@@ -16,18 +16,17 @@ Note: Marzipano tours are based on HTML and javascript files and require a web h
 
 1.  Go to [https://www.marzipano.net/](https://www.marzipano.net/){:target="_blank"} and click **Marzipano Tool** in the top-right corner. Click **Start**
 2.  Download some or all of the following 360 images (or use your own 360 images). Please note which folder they are downloaded into on your computer so you can find them:
-    -   [Image 1](http://web.uvic.ca/~rmccue/360-1.jpg){:target="_blank"}: A convocation photo
-    -   [Image 2](http://web.uvic.ca/~rmccue/360-images/stacks.jpg){:target="_blank"}: Library stacks
-    -   [Image 3](http://web.uvic.ca/~rmccue/360-images/3rd_floor_foyer.jpg){:target="_blank"}: DSC library 3rd floor, top of stairs
-    -   [Image 4](http://web.uvic.ca/~rmccue/360-images/dsc_entry.jpg){:target="_blank"}: DSC entry & glass stairwell
-    -   [Image 5](http://web.uvic.ca/~rmccue/360-images/classroom.jpg){:target="_blank"}: DSC classroom
-    -   [Image 6](http://web.uvic.ca/~rmccue/360-images/hallway.jpg){:target="_blank"}: DSC hallway
-    -   [Image 7](http://web.uvic.ca/~rmccue/360-images/3d_scanner_vr_room.jpg){:target="_blank"}: DSC 3D scanner & VR room hallway
-    -   [Image 8](http://web.uvic.ca/~rmccue/360-images/vr_room.jpg){:target="_blank"}: DSC VR room
-    -   [Image 9](http://web.uvic.ca/~rmccue/360-images/3d_scanner.jpg){:target="_blank"}: DSC 3D Scanner room
-    -   [Image 10](http://web.uvic.ca/~rmccue/360-images/windows.jpg){:target="_blank"}: DSC classroom windows
-    -   [Image 11](http://web.uvic.ca/~rmccue/360-images/3d_printers.jpg){:target="_blank"}: DSC 3D printers
-    -   [Image 12](http://web.uvic.ca/~rmccue/360-images/offices.jpg){:target="_blank"}: DSC offices
+    -   [Image 1](/images/360/stacks.jpg){:target="_blank"}: Library stacks
+    -   [Image 2](/images/360/3rd_floor_foyer.jpg){:target="_blank"}: DSC library 3rd floor, top of stairs
+    -   [Image 3](/images/360/dsc_entry.jpg){:target="_blank"}: DSC entry & glass stairwell
+    -   [Image 4](/images/360/classroom.jpg){:target="_blank"}: DSC classroom
+    -   [Image 5](/images/360/hallway.jpg){:target="_blank"}: DSC hallway
+    -   [Image 6](/images/360/3d_scanner_vr_room.jpg){:target="_blank"}: DSC 3D scanner & VR room hallway
+    -   [Image 7](/images/360/vr_room.jpg){:target="_blank"}: DSC VR room
+    -   [Image 8](/images/360/3d_scanner.jpg){:target="_blank"}: DSC 3D Scanner room
+    -   [Image 9](/images/360/windows.jpg){:target="_blank"}: DSC classroom windows
+    -   [Image 10](/images/360/3d_printers.jpg){:target="_blank"}: DSC 3D printers
+    -   [Image 11](/images/360/offices.jpg){:target="_blank"}: DSC offices
 3.  Click **Select Files** and import the 360-degree images that you would like to use in your tour (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process
 4.  Once your images have been processed, you will be able to add hotspots to each image, change the settings of your tour, and export your tour
     
