@@ -12,6 +12,10 @@ nav_order: 10
 - Roy Rosenzweig, "[Can History Be Open Source? Wikipedia and the Future of the Past](https://www.sfu.ca/cmns/courses/2012/801/1-Readings/Rosenzweig-%20Can%20history%20be%20open%20source%20.pdf){:target="_blank"}", Journal of American History 93 (June 2006), 117-146.
 - Paul Arthur, "[Exhibiting history: The digital future](http://recollections.nma.gov.au/issues/vol_3_no_1/papers/){:target="_blank"}", ReCollections 3, 1 (2008): 33-50.
 
+## Creative Commons Media Search
+- [Creative Commons Photo & Image Search](https://open4us.org/find-oer/#Photo/ImageSearch){:target="_blank"}
+- [Creative Commons Video Search](https://open4us.org/find-oer/#VideoSearch){:target="_blank"}
+- [Creative Commons Audio & Music Search](https://open4us.org/find-oer/#Audio/MusicSearch){:target="_blank"}
 
 ## Acknowledgements
 
