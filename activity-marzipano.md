@@ -19,14 +19,13 @@ Note: Marzipano tours are based on HTML and javascript files and require a web h
     -   [Image 1](/images/360/stacks.jpg){:target="_blank"}: Library stacks
     -   [Image 2](/images/360/3rd_floor_foyer.jpg){:target="_blank"}: DSC library 3rd floor, top of stairs
     -   [Image 3](/images/360/dsc_entry.jpg){:target="_blank"}: DSC entry & glass stairwell
-    -   [Image 4](/images/360/classroom.jpg){:target="_blank"}: DSC classroom
-    -   [Image 5](/images/360/hallway.jpg){:target="_blank"}: DSC hallway
-    -   [Image 6](/images/360/3d_scanner_vr_room.jpg){:target="_blank"}: DSC 3D scanner & VR room hallway
-    -   [Image 7](/images/360/vr_room.jpg){:target="_blank"}: DSC VR room
-    -   [Image 8](/images/360/3d_scanner.jpg){:target="_blank"}: DSC 3D Scanner room
-    -   [Image 9](/images/360/windows.jpg){:target="_blank"}: DSC classroom windows
-    -   [Image 10](/images/360/3d_printers.jpg){:target="_blank"}: DSC 3D printers
-    -   [Image 11](/images/360/offices.jpg){:target="_blank"}: DSC offices
+    -   [Image 4](/images/360/hallway.jpg){:target="_blank"}: DSC hallway
+    -   [Image 5](/images/360/3d_scanner_vr_room.jpg){:target="_blank"}: DSC 3D scanner & VR room hallway
+    -   [Image 6](/images/360/vr_room.jpg){:target="_blank"}: DSC VR room
+    -   [Image 7](/images/360/3d_scanner.jpg){:target="_blank"}: DSC 3D Scanner room
+    -   [Image 8](/images/360/windows.jpg){:target="_blank"}: DSC classroom windows
+    -   [Image 9](/images/360/3d_printers.jpg){:target="_blank"}: DSC 3D printers
+    -   [Image 10](/images/360/offices.jpg){:target="_blank"}: DSC offices
 3.  Click **Select Files** and import the 360-degree images that you would like to use in your tour (Note: you can borrow a 360-camera from the Music & Media desk in the library). Depending on how many images you load, it may take several minutes to process
 4.  Once your images have been processed, you will be able to add hotspots to each image, change the settings of your tour, and export your tour
     
