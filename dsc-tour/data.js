@@ -405,7 +405,7 @@ var APP_DATA = {
           "pitch": -0.36,
           "title": "Intro Video",
           "text": "",
-          "video": "https://www.youtube.com/embed/G51MmepmAQA"
+          "video": "https://www.youtube.com/embed/YibyzhRhsig"
         }
       ]
     },
