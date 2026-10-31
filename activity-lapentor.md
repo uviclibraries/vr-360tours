@@ -102,7 +102,7 @@ Note: This free virtual tour software supports self-hosting on your own domain
         
 10. **Share/Get link:** (Note: it costs 10 dollars to export) but you can share the link via online platforms (facebook, twitter, reddit), you can embed the code and/or use the QR code, you can also **get the link** by copying it on the top right
 
-11. To upload your Lapentor tour to your personal UVic web space you'll need to set up your personal webspace. You can do this by [following the directions here](http://bit.ly/2QlRZo0){:target="_blank"} to sign up for your personal webspace and following the instructions below that to upload your files:
+11. To upload your Lapentor tour to your personal UVic web space you'll need to set up your personal webspace. You can do this by [following the directions here](https://www.uvic.ca/systems/services/pages/web-hosting.php){:target="_blank"} to sign up for your personal webspace and following the instructions below that to upload your files:
         1.  [UVic Faculty & Staff web space request](https://www.uvic.ca/systems/support/web/webhosting-fac-staff/){:target="_blank"}
         2.  [UVic Student web space request](https://www.uvic.ca/systems/support/web/webhosting-students/contentmigrationstudentweb.php){:target="_blank"}
 
