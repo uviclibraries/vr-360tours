@@ -10,7 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 Google Earth is a multiplatform and web program that uses aerial photography, superimposed images, and GIS data to create a 3D representation of the earth. Users can enter addresses and geographical coordinates to view areas at various ages. In 2019, Google added creativity options that would allow individuals to tell their own stories using 3D streetviews, aerial footage, placemarks, routes, shapes, and descriptive text. Here are two examples:
 -   Famous biologist Jane Goodall's exploration in Gombee, Tanzania [here](http://tiny.cc/p0x9kz){:target="_blank"}
--   The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://bit.ly/3bFS5Rt){:target="_blank"}
+-   The neighbourhood in Brazil where a DSC staff member and his family lived for four months [here](https://earth.google.com/web/data=MkEKPwo9CiExc0ZJMFMzdVBrZnA4RGJLcmlRcGhCeW9ZNTdLMFZTTTYSFgoUMEU4MjNBRjkxNTBGQzQyNTlEM0MgAUICCABKCAiXo4mSBRAB?authuser=0){:target="_blank"}
 
 ### Creating Your Google Earth Project
 1.  Go to [https://earth.google.com/web/](https://earth.google.com/web/){:target="_blank"}, click on the menu icon  <img src="images\google-earth\menu_bar.png" alt="menu bar" style="width:25px;">  on the left
