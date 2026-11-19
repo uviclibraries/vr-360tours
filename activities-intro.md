@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Activities Introduction
+title: Self-Directed Introduction
 nav_order: 3
 ---
-# Hands-On Activities Introduction
+# Hands-On Self-Directed Introduction
 
 If you are working through this activity on your own, please review the information on the following links as this is information typically covered by an intstructor before the hands on activities:
 
